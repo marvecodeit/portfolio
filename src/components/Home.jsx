@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import port from '../assets/portfolio.jpg'
+import port from '../../public/assets/portfolio.jpg'
 const Home = () => {
   return (
     <div>
