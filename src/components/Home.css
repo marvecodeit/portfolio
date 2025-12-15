@@ -1,0 +1,51 @@
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+.img-container img {
+    border-radius: 50px;
+    width: 120px;
+}
+.text-container {
+    text-align: center;
+    justify-content: center;
+    font-family: sans-serif;
+}
+.div-cont {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
+}
+.div1 {
+    margin-top: 20px;
+    font-family: sans-serif;
+    width: 500px;
+    line-height: 1.5;
+    border-radius: 10px;
+    background-color: #1A1A1A;
+    padding: 10px;
+box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
+
+}
+.hire-me {
+    background-color: #1A1A1A;
+    padding: 10px;
+    
+}
+.hire-me p {
+    font-family: sans-serif;
+}
+.hire-me a button {
+    border: none;
+    background-color: #FF8F4E;
+    font-family: sans-serif;
+    height: 30px;
+    width: 180px;
+border-radius: 10px;
+transition: 1s;
+}
+.hire-me a button:hover {
+    width: 200px;
+    transition: 1s;
+}

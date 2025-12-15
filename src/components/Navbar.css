@@ -1,0 +1,10 @@
+.nav-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 12px;
+}
+.nav-text img {
+    height: 50px;
+    border-radius: 50px;
+}
